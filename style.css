@@ -304,7 +304,7 @@ p {
   margin-top: 1em;
   cursor: pointer;
   border: 1px solid transparent;
-  color: pink;
+  color: var(--Desaturated-Blue);
   transition: opacity ease-in-out 0.4s;
 }
 .hero__btn:hover {
