@@ -365,6 +365,7 @@ p {
   box-shadow: 2px 3px 2px 0 rgba(0, 0, 0, 0.1);
   cursor: pointer;
   transition: opacity ease-in-out 0.4s;
+  color: var(--Light-Grayish-Blue);
 }
 .form__btn:hover {
   opacity: 0.8;
