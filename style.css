@@ -462,6 +462,12 @@ p {
     justify-self: center;
     align-self: start;
   }
+  .footer__socials__logo {
+    border: 2px solid var(--Light-Grayish-Blue);
+  }
+  .footer__socials__logo:hover {
+    border: 2px solid var(--Desaturated-Blue);
+  }
   /* ================
       Typography
     ===============*/
